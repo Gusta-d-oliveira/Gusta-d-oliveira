@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left" width="30" height="30">
-    <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+    <a href="www.linkedin.com/in/gustavo-de-oliveira-afonso-do-amaral-239738240" target="_blank">
         <img align="center" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="mailto:contato@gustavodeoliveiraafonsodoamara@gmail.com">
