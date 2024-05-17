@@ -14,7 +14,7 @@
 <img align="right" width="350px" style="margin-top:-20px" src="roblox-mighty-omega.gif" width="350">
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Gusta-d-oliveira&theme=blue_navyicons=true" alt="GitHub Stats">
 
-<h1 align="left">Estou aprendendo:</h1>
+<h1 align="left">Estou estudando:</h1>
 <img align="left" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
